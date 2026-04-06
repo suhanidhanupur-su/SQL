@@ -31,7 +31,6 @@
 -- Column → one field or property
 
 
-
 -- 6️⃣ CREATE TABLE
 -- Definition
 -- CREATE TABLE is an SQL command used to create a new table in a database.
